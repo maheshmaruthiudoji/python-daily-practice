@@ -1,15 +1,20 @@
-# Python Daily Practice 🚀
+🐍 Python Daily Practice
 
-Hi, I am practicing Python daily to improve my coding skills.
+Goal: Become an AI Engineer 🤖
 
-## 📚 Topics Covered
-- Basics
-- Loops
-- Functions
-- OOP
+👤 About
 
-## 🎯 Goal
-To become an AI Engineer
+Daily Python practice to build strong fundamentals and move toward AI Engineering.
 
-## 📅 Progress
-- Day 1: Basics
+📚 Topics
+Python Basics & Control Flow
+Loops & Functions
+Data Structures
+OOP & Advanced Python
+File Handling & Exception Handling
+Modules & Packages
+Databases & APIs
+Testing & Concurrency
+Data Science (NumPy, Pandas)
+Machine Learning & Deep Learning
+AI Engineering (LLMs, RAG, APIs)
